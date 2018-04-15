@@ -9,6 +9,8 @@
 
 int main (int argc, char *argv[]) {
 
+	int yannis = 51;
+
 	int cont = 1;
 
 
